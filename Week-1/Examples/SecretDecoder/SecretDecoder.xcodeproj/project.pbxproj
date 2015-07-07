@@ -291,6 +291,7 @@
 				6C7104E71B49F0470009D4F2 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
