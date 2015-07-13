@@ -36,9 +36,6 @@
                                 <color key="backgroundColor" red="0.2390788475" green="0.71830215159999999" blue="1" alpha="1" colorSpace="calibratedRGB"/>
                                 <fontDescription key="fontDescription" type="system" pointSize="16"/>
                                 <state key="normal" title="Translate Message"/>
-                                <connections>
-                                    <action selector="translateMessage:" destination="vXZ-lx-hvc" eventType="touchUpInside" id="QEZ-1n-nI5"/>
-                                </connections>
                             </button>
                         </subviews>
                         <color key="backgroundColor" white="1" alpha="1" colorSpace="custom" customColorSpace="calibratedWhite"/>
@@ -50,7 +47,7 @@
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="x5A-6p-PRh" sceneMemberID="firstResponder"/>
             </objects>
-            <point key="canvasLocation" x="370" y="323"/>
+            <point key="canvasLocation" x="321" y="298"/>
         </scene>
     </scenes>
     <resources>
